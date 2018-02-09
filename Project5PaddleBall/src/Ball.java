@@ -1,5 +1,5 @@
 /*		 [Ball].java
- *Author: [Parker Casey]
+ *Author: [Gregory Casey]
  *Submission Date: [12/5/2014]
  *
  *Purpose: A brief paragraph description of the
