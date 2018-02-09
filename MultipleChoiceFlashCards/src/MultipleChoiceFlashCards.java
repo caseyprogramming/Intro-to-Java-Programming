@@ -1,6 +1,6 @@
 /* 
 		*[MultipleChoiceFlashCards].java
-		 *Author: [Parker Casey]
+		 *Author: [Gregory Casey]
 		 *Submission Date: [9/25/2014]
 		 *
 		 *Purpose: A brief paragraph description of the
